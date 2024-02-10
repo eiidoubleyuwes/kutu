@@ -30,7 +30,8 @@ These are my deliverabled for this project:
         1. API integration: Integrate with password generators, security services, etc.
         2. Web app: Develop a user-friendly web interface for password management.
         3. Security measures: Implement two-factor authentication, master password, etc.
-        4. Cloud integration: I want this web app to be idealy hosted on the cloud,with some cloud services here and there,most likely on AWS.
+        4. Cloud integration: I want this web app to be idealy hosted on the cloud,
+           with some cloud services here and there,most likely on AWS.
 
     C. Cool Suggestions/Future of this project:
 
