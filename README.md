@@ -9,5 +9,14 @@ This simple yet complex project is supposed to help me with learning:
 
 Anyway enough about me,
 
-Introducing Kutu(A swahili word for Rust),a password manager in Rust.
+Introducing `Kutu`(A swahili word for Rust),a password manager in Rust.
 
+These are my deliverabled for this project:
+
+    A. Core Functionality:
+
+        1. Password storage: Securely store passwords, usernames, and website URLs.
+        2. Password generation: Generate strong, random passwords.
+        3. Password editing: Edit and update saved passwords.
+        4. Multi-user: Support separate accounts for multiple users.
+        5. Encryption: Encrypt passwords using industry-standard algorithms.
