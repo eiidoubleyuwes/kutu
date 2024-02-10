@@ -40,3 +40,8 @@ These are my deliverabled for this project:
         3. Offer secure notes storage for additional sensitive information.
         4. Build a native app and or CLI tool for convenient access on the go.
 
+
+My techstack:
+    
+    1. Rocket.rs a web framework for rust
+    2. Postman API testing
