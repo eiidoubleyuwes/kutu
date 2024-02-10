@@ -2,14 +2,18 @@ Hello there,as a novice rust learner,I am undertaking one of the biggest Rust Pr
 
 This simple yet complex project is supposed to help me with learning:
 
-    1. Rust.
+    1. Rust as a language.
     2. API integration in Rust.
     3. API testing with probably PostMan
-    4. A web framework for Rust
+    4. A web framework for Rust.
 
 Anyway enough about me,
 
-Introducing `Kutu`(A swahili word for Rust),a password manager in Rust.
+Introducing `Kutu`(A swahili word for Rust),a password manager written in Rust.
+
+I am open to collaborations on this project,just fork/clone the repository and open a pull R/Q.
+
+Also,call out my code,if it has any issues.
 
 These are my deliverabled for this project:
 
@@ -27,3 +31,11 @@ These are my deliverabled for this project:
         2. Web app: Develop a user-friendly web interface for password management.
         3. Security measures: Implement two-factor authentication, master password, etc.
         4. Cloud integration: I want this web app to be idealy hosted on the cloud,with some cloud services here and there,most likely on AWS.
+
+    C. Cool Suggestions/Future of this project:
+
+        1. Integrate password auditing tools to check for weak passwords and vulnerabilities.
+        2. Implement password sharing with secure one-time links for emergencies.
+        3. Offer secure notes storage for additional sensitive information.
+        4. Build a native app and or CLI tool for convenient access on the go.
+
