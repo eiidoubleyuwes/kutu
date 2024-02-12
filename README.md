@@ -40,3 +40,7 @@ These are my deliverabled for this project:
         3. Offer secure notes storage for additional sensitive information.
         4. Build a native app and or CLI tool for convenient access on the go.
 
+This repo is unique to me because I have decided to split the code into multiple branches ie:
+    
+    1. Features(You are here,also main branch) - Contains the Readme for the main project and licenses only.
+    2. Backend - Contains only the backend code.
