@@ -1,8 +1,8 @@
-name: Pull R/Q checker 
+name: Push checker
 
 on:                    
-  pull_request:
-    branches: [ "features" , "backend" ]
+  push:
+    branches: [ "backend" ]
 
 env:
   CARGO_TERM_COLOR: always
