@@ -1,8 +1,8 @@
 #[macro_use] extern crate rocket;
 
-#[get("/")]
+#[get("/")] // Default endpoint
 fn index() -> &'static str {
-    "Hello, world!"
+    "More testing"
 }
 
 #[launch]
