@@ -17,4 +17,6 @@ Ofc I had to keep the License because its fun
 
      Rocket created a file called `src/schema.rs` that best describes the schema of the database
 
+     `src/models.rs` is where the struct for the DB lives,I think this is because I won't need to write SQL queries,I can   do it in plain rust
+
       
